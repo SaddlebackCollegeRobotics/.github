@@ -1,6 +1,6 @@
 # `SC ROBOTICS 2023-24`
 
-Saddleback College Robotics is a student team competing in the University Rover Challenge. Est. 2018. Our current team is composed of around 30 members, of whom have backgrounds in many different diciplines.
+Saddleback College Robotics is a student team competing in the University Rover Challenge. Est. 2018. Our current team is composed of around 30 members with backgrounds in many different diciplines.
 
 ### Team Leads
 
@@ -38,6 +38,7 @@ Fabrication space and machinery has been provided by Saddleback College. Team me
 - Maxon
 - Dassault Systems
 - Altium
+- Mastercam
 - Summit Interconnect
 - ProtoSpace Mfg
 - Bild

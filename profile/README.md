@@ -4,23 +4,24 @@ Saddleback College Robotics is a student team competing in the University Rover 
 
 ### Team Leads
 
-- **Team Lead -** `Troy Holly` **_- TODO_**
-- **Mechanical Lead -** `Micah Hsu` **_- TODO_**
+- **Team Lead -** `Troy Holly` **_- Mechanical Engineering_**
+- **Mechanical Lead -** `Micah Hsu` **_- Mechanical Engineering_**
 - **Programming Lead -** `Cameron Rosenthal` **_- Computer Science_**
-- **Science Leads -** `Laura Johann / Christina von Urff` **_- TODO_**
-- **Business Lead -** `Selena Sholakh` **_- TODO_**
+- **Electrical Lead -** `Tyler Le` **_- Computer Engineering_**
+- **Science Lead -** `Laura Johann` **_- Physics and Planetary Science_**
+- **Business Operations Manager -** `Selena Sholakh` **_- Business Administration_**
 
 ---
 
 ### Project Management
 
-The team is divided into seven subsystems **(Arm, Drive, Chasis, Science, Autonomy, Systems, Business)** to promote interdisciplinary collaboration and facilitate systems engineering and integration at earlier stages of design. In-person general and subteam meetings occur weekly. Main communications are accomplished through email and Discord. Deadlines and task completion is tracked using an online Gantt chart software and GitHub Projects.
+The team is divided into four primary subteams **(Mechanical, Programming, Electrical, Science)** organized by discipline to effectively divide team tasks. In-person general and subteam meetings occur weekly. Main communications are accomplished through email and Discord. Team-wide task management and deadlines are tracked using online Gantt chart software.
 
 ---
 
 ### Outreach and Recruitment
 
-The team has recruited members since June via classroom outreach, social media platforms, and campus club events. The team promotes the project to students via flyers, campus newsletters, and a team website. Educational outreach plans include demonstrations and presentations hosted by SC Robotics in conjunction with the college’s Physics and Astronomy Club.
+The team has recruited members since June via classroom outreach, flyers, and a team website. The team has established an online knowledge base website to facilitate onboarding of new members. Additionally, subteam leads provide individual training to prepare members for tasks on the team. Educational outreach plans include demonstrations and presentations hosted by SC Robotics in conjunction with the college’s Physics and Astronomy Club.
 
 ---
 
@@ -32,4 +33,11 @@ Fabrication space and machinery has been provided by Saddleback College. Team me
 
 ### Thank you to our Sponsors!
 
-- TODO
+- Saddleback College
+- Irvine Electro-Optics
+- Maxon
+- Dassault Systems
+- Altium
+- Summit Interconnect
+- ProtoSpace Mfg
+- Bild

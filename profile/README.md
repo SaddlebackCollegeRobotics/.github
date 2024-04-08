@@ -8,7 +8,7 @@ Saddleback College Robotics is a student team competing in the University Rover 
 - **Mechanical Lead -** `Micah Hsu` **_- Mechanical Engineering_**
 - **Programming Lead -** `Cameron Rosenthal` **_- Computer Science_**
 - **Electrical Lead -** `Tyler Le` **_- Computer Engineering_**
-- **Science Lead -** `Laura Johann` **_- Physics and Planetary Science_**
+- **Science Lead -** `Christina von Urff` **_- Physics and Planetary Science_**
 - **Business Operations Manager -** `Selena Sholakh` **_- Business Administration_**
 
 ---

@@ -1,4 +1,4 @@
-# `SC ROBOTICS 2023-24`
+# `SC ROBOTICS 2024-25`
 
 Saddleback College Robotics is a student team competing in the University Rover Challenge. Est. 2018. Our current team is composed of around 30 members with backgrounds in many different diciplines.
 
